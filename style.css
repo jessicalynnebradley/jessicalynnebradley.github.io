@@ -14,9 +14,9 @@ body {
   
 }
 
-header {
+ul li{
+  list-style-position:inside;
   
-  padding: 20px 0;
 }
 
 h1{
