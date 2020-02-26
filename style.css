@@ -1,18 +1,43 @@
 body {
-  font-family: Times New Roman, 'Georgia' , serif;
-  font-size: 30px;
+  font-family: "Times New Roman", Georgia , serif;
+  font-size: 10px;
   font-color: black;
   font-style: normal;
-  background-color: gray;
   font-weight: 300;
   text-align: center;
+  background-color: #D3D3D3;
+  border-style: double;
+  border-width: medium;
+  text-align: center;
+  padding: 20px;
+  
 }
 
 header {
+  
   padding: 20px 0;
 }
 
+h1{
+  font-size: 30px;
+  text-align: center;
+  font-family: "Times New Roman", Georgia, serif;
+  
+}
 
+h3{
+  font-size:20px;
+  text-align: center;
+  font-family: "Times New Roman", Georgia, serif;
+  
+}
+
+h4{
+  font-size:20px;
+  text-align:center;
+  font-family: "Times New Roman", Georgia, serif;
+  
+}
   
 
 
