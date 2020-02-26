@@ -1,6 +1,6 @@
 body {
   font-family: "Times New Roman", Georgia , serif;
-  font-size: 10px;
+  font-size: 20px;
   font-color: black;
   font-style: normal;
   font-weight: 300;
@@ -20,14 +20,14 @@ header {
 }
 
 h1{
-  font-size: 20px;
+  font-size: 30px;
   text-align: center;
   font-family: "Times New Roman", Georgia, serif;
   
 }
 
 h3{
-  font-size:20px;
+  font-size:30px;
   text-align: center;
   font-family: "Times New Roman", Georgia, serif;
   
@@ -35,7 +35,7 @@ h3{
 }
 
 h4{
-  font-size:20px;
+  font-size:30px;
   text-align:center;
   font-family: "Times New Roman", Georgia, serif;
   
