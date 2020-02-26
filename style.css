@@ -1,15 +1,16 @@
 body {
   font-family: "Times New Roman", Georgia , serif;
-  font-size: 10px;
+  font-size: 20px;
   font-color: black;
   font-style: normal;
   font-weight: 300;
   text-align: center;
-  background-color: #D3D3D3;
+  background-color: #DCDCDC;
   border-style: double;
   border-width: medium;
-  text-align: center;
   padding: 20px;
+  text-align: center;
+  
   
 }
 
@@ -19,21 +20,21 @@ header {
 }
 
 h1{
-  font-size: 30px;
+  font-size: 40px;
   text-align: center;
   font-family: "Times New Roman", Georgia, serif;
   
 }
 
 h3{
-  font-size:20px;
+  font-size:40px;
   text-align: center;
   font-family: "Times New Roman", Georgia, serif;
   
 }
 
 h4{
-  font-size:20px;
+  font-size:40px;
   text-align:center;
   font-family: "Times New Roman", Georgia, serif;
   
